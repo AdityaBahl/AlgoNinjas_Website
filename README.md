@@ -19,7 +19,7 @@ Sep 2023 - Nov 2023 (3 Months)
 
 ### Live Website
 
-[mlsclasses.com/](https://algoninjas.com/)
+[algoninjas.com/](https://algoninjas.com/)
 
 ## Getting Started with Create React App
 
