@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# AlgoNinjas
+
+### Position
+
+Software Engineer Intern
+
+### Location
+
+Jaipur, Remote
+
+### Duration
+
+Sep 2023 - Nov 2023 (3 Months)
+
+### Responsibilities
+
+◦ Spearheaded the successful implementation of software development projects using cutting-edge technologies like MERN Stack and managed web hosting, leveraging AWS and Google Cloud Platform in a team of six.\
+◦ Demonstrated expertise in software development lifecycle (SDLC) and DevOps methodologies, optimizing project workflows and fostering effective collaboration within a globally distributed team.
+
+### Live Website
+
+[mlsclasses.com/](https://algoninjas.com/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
