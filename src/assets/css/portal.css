@@ -1,0 +1,416 @@
+.blanksSpace{
+    height: 10px;
+}
+.main-portal{
+    background-color: #4594D0;
+    position: relative;
+    /* left: 8%; */
+    margin-left: 300px;    
+}
+.main-container{
+    background-color: #2a91ff;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.btn-portal{
+    color: white!important;
+    background-color: #0b5ed7!important;
+    border-color: #0b5ed7;
+    float: right;
+
+}
+.first-card{
+    width:90%;
+    margin-left: 5%;
+    margin-top:1%;
+    height:100%;
+}
+.first-card-body{
+    width:740px;
+}
+/* .first-card-lady{
+    width:150px;
+    position: absolute;
+    margin-top: -11%;
+    margin-left: 70%;
+} */
+.first-card-lady{
+    width:180px;
+    position: absolute;
+    margin-top: -12.5%;
+    margin-left: 68%;
+    border-radius: 100%;
+    border-style: dotted;
+    border-color: orange;
+}
+.arrow{
+    width:25px;
+    transform:rotate(28deg);
+    margin-left: -15%;
+    margin-bottom: -30%;
+}
+.second-card{
+    width:395px;
+    height:450px;    
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.second-card-body{
+    margin-bottom: -10%;
+    margin-top: -5%;
+    margin-left: 10%;
+}
+.second-card-body p{
+    font-size: 10px;
+}
+.third-card{
+    width:300px;
+    height:400px;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.third-card-body{
+    margin-bottom: -5%;
+    margin-top: -2%;
+}
+.third-card-body p{
+    font-size: 10px;
+}
+.YoutubeBox-portal{
+    position: absolute;
+    margin-left: 39%;
+    margin-top: -36.5%;
+    width:700px;
+    height:450px;
+}
+.cal-portal{
+    margin-top: 2%;
+    background-color: white;
+    width: 450px;
+    height:350px;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+.cal-body{
+    margin-top: 5%;
+}
+.calendar-portal{
+    margin-top: -28%;
+    background-color: white;
+    width: 650px;
+    height:650px;
+    margin-left: 44%;
+    border-radius: 10px;
+}
+.calendar-portal-body{
+    margin-bottom: -5%;
+    margin-top: -2%;
+}
+.calendar-portal-body p{
+    font-size: 10px;
+}
+.calList-portal{
+    width:140px
+}
+.calList-portal-dp img{
+    width:20px;
+    height:20px;
+}
+.calList-portal-cal img{
+    width:20px;
+    height:20px;
+}
+.calList-portal-star img{
+    width:70px;
+    height:20px;
+}
+.blank-column {
+      margin-left: -33%;
+      flex: 1; /* Blank column takes up remaining space */
+}
+  .content {
+    flex: 2; /* Content column takes twice the space as the blank column */
+
+}
+@media (max-width: 768px) {
+    .main-portal{
+        background-color: #4594D0;
+        position: relative;
+        width: 100%;
+        /* left: 8%; */
+        margin-left: 100px;        
+    }   
+    .first-card{
+        width:275px;
+    }
+    .first-card-body{
+        width:250px;
+    }
+    .first-card-lady{
+        margin: 0px;
+        width: 70px;
+        margin-left: 25%;
+        margin-top: -100%;
+    }
+    .second-card{
+        width:275px;
+        height:700px;
+    }
+    .second-card-body{
+        width: 255px;
+    }
+    .YoutubeBox-portal{
+        margin-top: 10px;
+        margin-left: 1.5%;
+        width:300px;
+        height: 300px;
+    }
+    .cal-portal{
+        margin-top: 350px;
+        width:73%;
+        margin-left: 1.5%;
+    }
+    .calendar-portal-heading h5{
+        margin-left: 29%;
+    }
+    .calendar-portal-heading p{
+        margin-left: 29%;
+    }
+    .calList-portal-dp img{
+        margin-left: 48%;
+    }
+    .calendar-portal{
+        margin-top: 30px;
+        margin-left: 1.5%;
+        width: 73%;
+        height:100%;
+    }
+    .calendar-portal-body{
+        margin-bottom: -5%;
+        margin-top: -2%;
+        width:100%;
+    }
+    .calendar-portal-body p{
+        font-size: 10px;
+    }
+    .calList-portal-cal{
+        margin-top: -55%;
+        margin-left: 52%;
+    }
+    .calList-portal-join{
+        margin-left: 52%;
+    }
+    .calList-portal-primary{
+        margin-left: 52%;
+    }
+    .calList-portal-star img{
+        margin-left: 35%;
+    }
+}
+
+/* Student Portal */
+.main-portal-student{
+    background-color: #4594D0;
+    position: relative;
+    /* left: 8%; */
+    margin-left: 300px;    
+}
+.prog_card{
+    margin-left: -1%;
+}
+.OurPrograms-student{
+    margin-left: 40%;
+    margin-top: 3%;
+}
+.second-card-student{
+    width:395px;
+    height:450px;    
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.second-card-body-student{
+    margin-bottom: -10%;
+    margin-top: -5%;
+    margin-left: 10%;
+}
+.second-card-body-student p{
+    font-size: 10px;
+}
+.YoutubeBox-StuDash{
+    position: absolute;
+    margin:1%;
+    width:750px;
+    height:450px;
+}
+.Score{
+    width:600px;
+    height:500px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+.leftScore{
+    position: absolute;
+    width:300px;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.leftScore h5{
+    font-size: 19px;
+}
+.leftScore h6{
+    font-size: 12px;
+    color: gray;
+}
+.leftScore p{
+    margin-top: 20%;
+    margin-bottom: 40%;
+    font-size: 16px;
+}
+.rightScore{
+    border-radius: 10px;
+    background-color: rgb(243, 238, 238);
+    position: absolute;
+    margin-left: 27%;
+    width:270px;
+    height:500px;
+}
+.Score-Lady{
+    width:200px;
+    margin-top: 20%;
+    margin-left: 13%;
+    border-radius: 100%;
+    border-style: dotted;
+    border-color: orange;
+}
+.rightScore-Sub1{
+    margin-top: 10%;
+margin-left: 12%;
+}
+.rightScore-Sub2{
+    margin-top: -45%;
+    margin-left: 55%;
+}
+.rightScore-Sub-num1 p{
+    color:#437fd9;
+    font-size: 30px;
+    margin: 17px;
+}
+.rightScore-Sub-num2 p{
+    color:#dd5555;
+    font-size: 30px;
+    margin: 17px;
+}
+.rightScore-Sub-num1{
+    background-color: #d1e0f7;
+    width:80px;
+    height: 80px;
+    border-radius: 100%;
+    border-color: #437fd9;
+    border-style:solid;
+    border-width: 1.3px;
+}
+.rightScore-Sub-num2{
+    background-color: #fad5db;
+    width:80px;
+    height:80px;
+    border-radius: 100%;
+    border-color: #dd5555;
+    border-style:solid;
+    border-width: 1.3px;
+
+}
+.ProgressReport{
+    position: absolute;
+    width:570px;
+    height:500px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: -40.5%;
+    margin-left: 50%;
+}
+.ProgressReport-desc{
+    margin-top: 2%;    
+    margin-left: 5%;
+}
+.ProgressReport-desc h1{
+    font-size: 35px;
+}
+.ProgressReport-desc p{
+    font-size: 12px;
+    color:gray;
+}
+.Table-Card{
+    margin-left: 5%;
+    width: 500px;
+    height:400px;
+    text-align: center;
+}
+.Table-Card-Head{
+    background-color: #0b5ed7;
+    border-radius: 10px;
+}
+@media (max-width: 768px){
+    .main-portal-student{
+        background-color: #4594D0;
+        position: relative;
+        margin-left: 100px;  
+        height:100%;  
+    }
+    .OurPrograms-student{
+        margin:20%;
+        margin-top: 7%;
+        margin-bottom: -5%;
+        margin-left: 25%;
+    }
+    .YoutubeBox-StuDash{
+        position: absolute;
+        margin:1%;
+    }
+    .second-card-student{
+        margin-left: -1%;
+        width:275px;
+        height:700px;
+    }
+    .second-card-student{
+        width: 290px;
+    }
+    .Score{
+        width:290px;
+    }
+    .leftScore{
+        width:150px;
+    }
+    .rightScore{
+        margin-left: 50%;
+        width:135px;
+    }
+    .Score-Lady{
+        width:100px;
+    }
+    .rightScore-Sub1{
+        margin-left: 30%;
+    }
+    .rightScore-Sub-num1{
+        margin-left: -10%;
+    }
+    .rightScore-Sub2{
+        margin-top: 10%;
+        margin-left: 25%;
+    }
+    .rightScore-Sub-num2{
+        margin-left: -4%;
+    }
+    .ProgressReport{
+        position: relative;
+        margin-top: 0%;
+        margin-left: 0%;
+        width:100%;
+        height:750px;        
+    }
+    .Table-Card-tbl{
+        width:100px;
+        margin-left: -1%;
+    }
+}

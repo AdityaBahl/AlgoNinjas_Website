@@ -1,0 +1,28 @@
+
+.exp h1{
+    width: 100%;
+    /* padding-right: 10%; */
+    text-align: center;
+    color: #007BFF;
+    /* font-size: 48px; */
+    line-height: 25px;
+    font-family: Abhaya Libre, serif;
+    display: -webkit-box;
+    /* -webkit-line-clamp: 2; */
+    -webkit-box-orient: vertical;
+}
+@media (max-width: 768px) {
+    .contact-btn{
+        margin-left: -2%;
+    }
+    .exp h1{
+        /* font-size: 38px; */
+    }
+    .student_p{
+        font-size: 1.9rem;
+        line-height: 20px;
+        display: flex;
+        justify-content: center;
+    }
+}
+

@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.608b5a66.css",
+    "main.js": "/static/js/main.d3b9b279.js",
+    "static/js/651.59d2ec79.chunk.js": "/static/js/651.59d2ec79.chunk.js",
+    "static/media/webDev.webp": "/static/media/webDev.9438beec36e4f2aa1ddf.webp",
+    "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/dataScience.jpg": "/static/media/dataScience.6e837fc0a98f132776a2.jpg",
+    "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/1.jpg": "/static/media/1.61b71f9bee316fedac92.jpg",
+    "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/DigitalMarketing.jpg": "/static/media/DigitalMarketing.4c99e2675ad730451d95.jpg",
+    "static/media/DevOps.jpg": "/static/media/DevOps.2a3280b121bf1ddf85e1.jpg",
+    "static/media/DSA.jpeg": "/static/media/DSA.5595c292d5a8bd1fa9df.jpeg",
+    "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/SoftTest.jpeg": "/static/media/SoftTest.aca06048efb19cd52699.jpeg",
+    "static/media/customer-support.png": "/static/media/customer-support.3496c08fc021823629bd.png",
+    "static/media/user.png": "/static/media/user.73011e17ea1d1579221c.png",
+    "static/media/DBMS.webp": "/static/media/DBMS.459bb98bc9d63b78ea23.webp",
+    "static/media/em1.webp": "/static/media/em1.006ffe645bfb4ff80ccf.webp",
+    "index.html": "/index.html",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.608b5a66.css.map": "/static/css/main.608b5a66.css.map",
+    "main.d3b9b279.js.map": "/static/js/main.d3b9b279.js.map",
+    "651.59d2ec79.chunk.js.map": "/static/js/651.59d2ec79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.608b5a66.css",
+    "static/js/main.d3b9b279.js"
+  ]
+}
